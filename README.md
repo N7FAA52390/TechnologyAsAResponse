@@ -1,10 +1,10 @@
 # Technology as a Response: Understanding its Role in Human Adaptation  
 
-> When playing a game of cards, how we play our cards is key, and reflecting on how we use the cards we have can make all the difference. 
+> When playing a game of cards, how we play our cards is key, and reflecting on how we play our cards can make all the difference. 
 
 ## **Nexus Series - Paper 03**
 
-In its essence, it is the same with technology. In this paper we will go back to the basics, look back at the roots of technology and attempt to gain insights into how it can be a boon for each and every human being.
+In its essence, it is the same with technology. In this paper we will go back to the basics, look back at the roots of technology and attempt to gain insights into how it can be a boon for each and every human being. It's a question of who shapes whom more: is it we who shape technology, or does technology shape us?
 
 
 ## License
